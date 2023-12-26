@@ -22,9 +22,9 @@ Our selected dataset comprises 19 carefully chosen variables, focusing on lifest
 - Matplotlib, Seaborn for visualization
 
 ## How to Run the Project
-1. Clone the repository:
-2. Install the required packages:
-3. Run the Jupyter notebooks or Python scripts:
+1. Clone the repository
+2. Install the required packages
+3. Run the Jupyter notebooks or Python scripts
 
 ## Results and Discussion
 Our models demonstrated the ability to accurately predict cardiovascular disease risk, with the Neural Network showing the most promising results. The project provides valuable insights into the impact of lifestyle factors on cardiovascular health.
